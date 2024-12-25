@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abda11ah9
-- 👀 I’m interested in Machine Learning & Ice cream :P
-- 🌱 I’m currently learning Data Structures & Algorithms in C++ 
+- 👀 I’m interested in Systems, Security & Distributed Systems
 - 💞️ I’m looking to collaborate on an open source project!
 - 📫 How to reach me abdallah.nbl@gmail.com
 
